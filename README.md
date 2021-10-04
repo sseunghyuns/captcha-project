@@ -53,9 +53,23 @@ knn모델 학습, 새로운 데이터에 적용하여 수식을 풀어내는 함
 
 ### 실행 방법
 
+1. 프로젝트를 받아옵니다.
 ~~~
-this is code
+git clone https://github.com/sseunghyuns/captcha-project.git
 ~~~
+
+2. `captcha-project/captcha/src` 폴더로 이동한 후, 아래의 코드를 실행하여 테스트 서버를 킵니다.
+
+~~~
+python3 run.py
+~~~
+
+3. `captcha-project/captcha` 폴더로 이동하여 아래의 코드를 실행합니다.
+
+'''
+python3 run.py
+'''
+
 
 ---
 
