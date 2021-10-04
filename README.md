@@ -57,6 +57,7 @@ knn모델 학습, 새로운 데이터에 적용하여 수식을 풀어내는 함
 this is code
 ~~~
 
+---
 
 ### 참고  
 나동빈 - [Python 데이터 분석과 이미지 처리](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
