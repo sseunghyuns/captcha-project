@@ -20,6 +20,7 @@ captcha_project는  유튜버 '동빈나'님의 [Python 데이터 분석과 이�
 * 3. 인식된 수식을 계산하여 답을 도출합니다. 
 
 <img width="500" alt="captcha" src="https://user-images.githubusercontent.com/63924704/135803243-2198f49d-1022-4584-93df-bef9abce0919.png">
+
 *이미지출처 - Python 데이터 분석과 이미지 처리, 나동빈*
 
 ---
