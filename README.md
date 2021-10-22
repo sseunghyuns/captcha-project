@@ -32,6 +32,7 @@ captcha_project는  유튜버 '동빈나'님의 [Python 데이터 분석과 이�
 결과는 아래의 이미지에서 확인할 수 있듯, 100개의 문제를 약 5초만에 풀어낼 수 있었습니다.
 
 <img width="700" alt="result" src="https://user-images.githubusercontent.com/63924704/135809401-0583cc37-99dc-4626-8f6c-2a3436df16ae.png">
+이미지출처 - Python 데이터 분석과 이미지 처리, 나동빈
 
 ---
 
