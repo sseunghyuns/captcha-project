@@ -78,4 +78,4 @@ python3 run.py
 ---
 
 ### 참고  
-나동빈 - [Python 데이터 분석과 이미지 처리](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
+나동빈 [Python 데이터 분석과 이미지 처리](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
